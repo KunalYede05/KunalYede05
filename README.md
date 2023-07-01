@@ -1,3 +1,4 @@
+![logo](https://github.com/KunalYede05/KunalYede05/blob/main/Banner%20image.jpg)
 <h1 align="center">Hi 👋, I'm Kunal Yede</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
